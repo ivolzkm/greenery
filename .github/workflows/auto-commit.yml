@@ -1,0 +1,39 @@
+name: Daily Auto Commit
+
+on:
+  schedule:
+    # Executa todo dia às 16:20 UTC (13:20 horário de Brasília)
+    - cron: '20 16 * * *'
+  workflow_dispatch:  # Permite executar manualmente
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Configure Git
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action Bot"
+    
+    - name: Generate random commits
+      run: |
+        # Número aleatório de commits (1-23)
+        NUMBER=$((RANDOM % 23 + 1))
+        
+        echo "Gerando $NUMBER commits..."
+        
+        for ((run=1; run <= NUMBER; run++))
+        do
+          echo "Auto commit $(date)" > file.txt
+          git add file.txt
+          git commit -m "Auto commit #$run - $(date '+%Y-%m-%d %H:%M:%S')"
+        done
+    
+    - name: Push changes
+      run: |
+        git push
+
