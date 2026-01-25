@@ -10,9 +10,4 @@ for i in $(seq 1 $num_commits); do
     git commit -m "Auto commit $(date)"
 done
 
-git push origin master
-```
 
-**file.txt** (arquivo que será modificado):
-```
-Arquivo para commits automáticos
