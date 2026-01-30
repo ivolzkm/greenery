@@ -73,7 +73,6 @@ Também porque:
 - Gamificação funciona (até quando você sabe que tá sendo enganado)
 - Quadradinhos verdes dão dopamina
 - Esse README foi mais difícil de escrever que o código todo
-- YOLO
 
 ## ⚖️ Considerações Éticas
 
