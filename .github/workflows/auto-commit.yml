@@ -2,9 +2,8 @@ name: Daily Auto Commit
 
 on:
   schedule:
-    # Executa todo dia às 16:20 UTC (13:20 horário de Brasília)
     - cron: '20 16 * * *'
-  workflow_dispatch: # Permite executar manualmente
+  workflow_dispatch:
 
 jobs:
   auto-commit:
@@ -14,6 +13,9 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       
+    - name: Install fortune
+      run: sudo apt-get update && sudo apt-get install -y fortune-mod
+      
     - name: Configure Git
       run: |
         git config --local user.email "action@github.com"
@@ -21,19 +23,15 @@ jobs:
     
     - name: Generate random commits
       run: |
-        # Número aleatório de commits (1-23)
         NUMBER=$((RANDOM % 23 + 1))
-        
         echo "Gerando $NUMBER commits..."
         
         for ((run=1; run <= NUMBER; run++))
         do
-          # Adiciona timestamp único para garantir que o arquivo muda
-          echo "Auto commit #$run - $(date '+%Y-%m-%d %H:%M:%S') - Random: $RANDOM" > file.txt
+          fortune > file.txt
           git add file.txt
-          git commit -m "Auto commit #$run - $(date '+%Y-%m-%d %H:%M:%S')"
+          git commit -m "$(fortune -sn 32 | head -n 1)"
         done
     
     - name: Push changes
-      run: |
-        git push
+      run: git push
