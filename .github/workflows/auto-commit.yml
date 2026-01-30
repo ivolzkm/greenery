@@ -18,8 +18,8 @@ jobs:
       
     - name: Configure Git
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action Bot"
+        git config --local user.email "ivolzkmjr1326@gmail.com"
+        git config --local user.name "ivolzkm"
     
     - name: Generate random commits
       run: |
