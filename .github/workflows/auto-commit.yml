@@ -4,7 +4,7 @@ on:
   schedule:
     # Executa todo dia às 16:20 UTC (13:20 horário de Brasília)
     - cron: '20 16 * * *'
-  workflow_dispatch:  # Permite executar manualmente
+  workflow_dispatch: # Permite executar manualmente
 
 jobs:
   auto-commit:
@@ -28,7 +28,8 @@ jobs:
         
         for ((run=1; run <= NUMBER; run++))
         do
-          echo "Auto commit $(date)" > file.txt
+          # Adiciona timestamp único para garantir que o arquivo muda
+          echo "Auto commit #$run - $(date '+%Y-%m-%d %H:%M:%S') - Random: $RANDOM" > file.txt
           git add file.txt
           git commit -m "Auto commit #$run - $(date '+%Y-%m-%d %H:%M:%S')"
         done
@@ -36,4 +37,3 @@ jobs:
     - name: Push changes
       run: |
         git push
-
