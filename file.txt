@@ -1,1 +1,1 @@
-You need more time; and you probably always will.
+You will be the last person to buy a Chrysler.
