@@ -1,1 +1,1 @@
-You could live a better life, if you had a better mind and a better body.
+Afternoon very favorable for romance.  Try a single person for a change.
