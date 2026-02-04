@@ -1,1 +1,2 @@
-Today is the last day of your life so far.
+You will lose your present job and have to become a door to door mayonnaise
+salesman.
