@@ -1,1 +1,1 @@
-You will be given a post of trust and responsibility.
+Excellent day to have a rotten day.
