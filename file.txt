@@ -1,1 +1,2 @@
-Your reasoning powers are good, and you are a fairly good planner.
+Today's weirdness is tomorrow's reason why.
+		-- Hunter S. Thompson
