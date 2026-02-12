@@ -1,1 +1,1 @@
-You may get an opportunity for advancement today.  Watch it!
+There is a 20% chance of tomorrow.
