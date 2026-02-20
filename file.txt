@@ -1,1 +1,1 @@
-You look like a million dollars.  All green and wrinkled.
+Learn to pause -- or nothing worthwhile can catch up to you.
