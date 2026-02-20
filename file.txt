@@ -1,2 +1,1 @@
-Lord, what fools these mortals be!
-		-- William Shakespeare, "A Midsummer-Night's Dream"
+You will be reincarnated as a toad; and you will be much happier.
