@@ -1,1 +1,1 @@
-You're a card which will have to be dealt with.
+Your lucky number is 3552664958674928.  Watch for it everywhere.
