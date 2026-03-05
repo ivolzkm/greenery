@@ -1,2 +1,1 @@
-I have never let my schooling interfere with my education.
-		-- Mark Twain
+A visit to a strange place will bring fresh work.
