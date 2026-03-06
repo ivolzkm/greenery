@@ -1,1 +1,1 @@
-You will be awarded the Nobel Peace Prize... posthumously.
+You are going to have a new love affair.
