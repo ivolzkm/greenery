@@ -1,1 +1,2 @@
-Q:	How do you keep a moron in suspense?
+Tempt not a desperate man.
+		-- William Shakespeare, "Romeo and Juliet"
