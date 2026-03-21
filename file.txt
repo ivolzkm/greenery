@@ -1,1 +1,1 @@
-Your boyfriend takes chocolate from strangers.
+You are the only person to ever get this message.
