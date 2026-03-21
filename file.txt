@@ -1,1 +1,2 @@
-Increased knowledge will help you now.  Have mate's phone bugged.
+He hath eaten me out of house and home.
+		-- William Shakespeare, "Henry IV"
