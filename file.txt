@@ -1,1 +1,1 @@
-Go to a movie tonight.  Darkness becomes you.
+Your reasoning powers are good, and you are a fairly good planner.
