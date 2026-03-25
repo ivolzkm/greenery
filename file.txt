@@ -1,1 +1,2 @@
-Be security conscious -- National defense is at stake.
+Harp not on that string.
+		-- William Shakespeare, "Henry VI"
