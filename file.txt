@@ -1,1 +1,2 @@
-You will always have good luck in your personal affairs.
+Q:	What is purple and commutes?
+A:	An Abelian grape.
