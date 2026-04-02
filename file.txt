@@ -1,1 +1,1 @@
-Expect the worst, it's the least you can do.
+You are fairminded, just and loving.
