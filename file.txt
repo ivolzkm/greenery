@@ -1,2 +1,1 @@
-Lay on, MacDuff, and curs'd be him who first cries, "Hold, enough!".
-		-- Shakespeare
+You have an unusual equipment for success.  Be sure to use it properly.
