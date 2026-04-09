@@ -1,2 +1,1 @@
-Big book, big bore.
-		-- Callimachus
+You are always busy.
