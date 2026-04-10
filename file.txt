@@ -1,1 +1,2 @@
-Your fly might be open (but don't check it just now).
+Q:	Why do firemen wear red suspenders?
+A:	To conform with departmental regulations concerning uniform dress.
