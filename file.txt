@@ -1,2 +1,3 @@
-Something's rotten in the state of Denmark.
-		-- Shakespeare
+Q:	What do you call the money you pay to the government when
+	you ride into the country on the back of an elephant?
+A:	A howdah duty.
