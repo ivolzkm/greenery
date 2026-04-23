@@ -1,1 +1,1 @@
-All the troubles you have will pass away very quickly.
+Your aim is high and to the right.
