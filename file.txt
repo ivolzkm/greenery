@@ -1,1 +1,1 @@
-Tomorrow will be cancelled due to lack of interest.
+Someone whom you reject today, will reject you tomorrow.
