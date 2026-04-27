@@ -1,1 +1,2 @@
-Expect the worst, it's the least you can do.
+Writing is turning one's worst moments into money.
+		-- J.P. Donleavy
