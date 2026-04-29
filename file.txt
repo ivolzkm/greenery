@@ -1,2 +1,1 @@
-Every cloud engenders not a storm.
-		-- William Shakespeare, "Henry VI"
+Look afar and see the end from the beginning.
