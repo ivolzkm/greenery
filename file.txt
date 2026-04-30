@@ -1,1 +1,1 @@
-You recoil from the crude; you tend naturally toward the exquisite.
+You get along very well with everyone except animals and people.
