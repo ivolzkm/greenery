@@ -1,5 +1,1 @@
-Knock, knock!
-	Who's there?
-Sam and Janet.
-	Sam and Janet who?
-Sam and Janet Evening...
+You have literary talent that you should take pains to develop.
