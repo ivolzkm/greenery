@@ -1,1 +1,1 @@
-You possess a mind not merely twisted, but actually sprained.
+A gift of a flower will soon be made to you.
