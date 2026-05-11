@@ -1,1 +1,1 @@
-You will be divorced within a year.
+Good day for a change of scene.  Repaper the bedroom wall.
