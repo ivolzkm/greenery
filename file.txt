@@ -1,3 +1,2 @@
-I must have a prodigious quantity of mind; it takes me as much as a
-week sometimes to make it up.
-		-- Mark Twain, "The Innocents Abroad"
+There's small choice in rotten apples.
+		-- William Shakespeare, "The Taming of the Shrew"
