@@ -1,1 +1,1 @@
-Make a wish, it might come true.
+Give your very best today.  Heaven knows it's little enough.
