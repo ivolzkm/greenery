@@ -1,1 +1,1 @@
-You have an unusual equipment for success.  Be sure to use it properly.
+You own a dog, but you can only feed a cat.
