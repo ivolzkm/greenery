@@ -1,1 +1,2 @@
-You will obey or molten silver will be poured into your ears.
+When one burns one's bridges, what a very nice fire it makes.
+		-- Dylan Thomas
