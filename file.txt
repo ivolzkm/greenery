@@ -1,1 +1,1 @@
-You love your home and want it to be beautiful.
+You will have long and healthy life.
