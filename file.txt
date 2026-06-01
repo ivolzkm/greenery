@@ -1,3 +1,1 @@
-Q:	What looks like a cat, flies like a bat, brays like a donkey, and
-	plays like a monkey?
-A:	Nothing.
+Your nature demands love and your happiness depends on it.
