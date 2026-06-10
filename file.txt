@@ -1,1 +1,1 @@
-Generosity and perfection are your everlasting goals.
+You teach best what you most need to learn.
