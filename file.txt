@@ -1,1 +1,2 @@
-Don't kiss an elephant on the lips today.
+Harp not on that string.
+		-- William Shakespeare, "Henry VI"
