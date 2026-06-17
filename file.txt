@@ -1,2 +1,3 @@
-You will pay for your sins.  If you have already paid, please disregard
-this message.
+Reader, suppose you were an idiot.  And suppose you were a member of
+Congress.  But I repeat myself.
+		-- Mark Twain
