@@ -1,9 +1,4 @@
-Q:	How many DEC repairman does it take to fix a flat?
-A:	Five; four to hold the car up and one to swap tires.
-
-Q:	How long does it take?
-A:	It's indeterminate.
-	It will depend upon how many flats they've brought with them.
-
-Q:	What happens if you've got TWO flats?
-A:	They replace your generator.
+Behold, the fool saith, "Put not all thine eggs in the one basket"--which is
+but a manner of saying, "Scatter your money and your attention;" but the wise
+man saith, "Put all your eggs in the one basket and--WATCH THAT BASKET."
+		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
