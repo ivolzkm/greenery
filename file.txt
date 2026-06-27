@@ -1,1 +1,1 @@
-You will be the last person to buy a Chrysler.
+An avocado-tone refrigerator would look good on your resume.
