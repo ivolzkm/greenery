@@ -1,1 +1,1 @@
-Keep it short for pithy sake.
+Keep emotionally active.  Cater to your favorite neurosis.
