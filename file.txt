@@ -1,1 +1,2 @@
-You have a deep appreciation of the arts and music.
+Patch griefs with proverbs.
+		-- William Shakespeare, "Much Ado About Nothing"
