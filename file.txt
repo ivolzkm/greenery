@@ -1,3 +1,4 @@
-FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #19
-A:	To be or not to be.
-Q:	What is the square root of 4b^2?
+"I understand this is your first dead client," Sabian was saying.  The
+absurdity of the statement made me want to laugh but they don't call me
+Deadpan Allie and lie.
+		-- Pat Cadigan, "Mindplayers"
