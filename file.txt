@@ -1,1 +1,1 @@
-Caution: breathing may be hazardous to your health.
+Your lover will never wish to leave you.
