@@ -1,1 +1,1 @@
-A gift of a flower will soon be made to you.
+Of course you have a purpose -- to find a purpose.
