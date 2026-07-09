@@ -1,1 +1,3 @@
-Don't get stuck in a closet -- wear yourself out.
+Questionable day.
+
+Ask somebody something.
