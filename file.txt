@@ -1,3 +1,5 @@
-It were not best that we should all think alike; it is difference of opinion
-that makes horse-races.
-		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
+For years a secret shame destroyed my peace--
+I'd not read Eliot, Auden or MacNiece.
+But now I think a thought that brings me hope:
+Neither had Chaucer, Shakespeare, Milton, Pope.
+		-- Justin Richardson.
