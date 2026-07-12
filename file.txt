@@ -1,1 +1,2 @@
-Don't plan any hasty moves.  You'll be evicted soon anyway.
+It usually takes more than three weeks to prepare a good impromptu speech.
+		-- Mark Twain
