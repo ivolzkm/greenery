@@ -1,1 +1,1 @@
-Excellent time to become a missing person.
+Tomorrow will be cancelled due to lack of interest.
