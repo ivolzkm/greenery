@@ -1,2 +1,1 @@
-I have never let my schooling interfere with my education.
-		-- Mark Twain
+Change your thoughts and you change your world.
