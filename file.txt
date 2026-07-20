@@ -1,1 +1,1 @@
-Best of all is never to have been born.  Second best is to die soon.
+Your business will go through a period of considerable expansion.
