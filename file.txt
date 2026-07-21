@@ -1,1 +1,1 @@
-Try to have as good a life as you can under the circumstances.
+You have literary talent that you should take pains to develop.
