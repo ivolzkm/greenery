@@ -1,2 +1,2 @@
-The smallest worm will turn being trodden on.
-		-- William Shakespeare, "Henry VI"
+He was part of my dream, of course -- but then I was part of his dream too.
+		-- Lewis Carroll
