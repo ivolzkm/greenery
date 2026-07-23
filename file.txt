@@ -1,1 +1,1 @@
-Exercise caution in your daily affairs.
+Executive ability is prominent in your make-up.
