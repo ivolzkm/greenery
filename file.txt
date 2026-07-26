@@ -1,2 +1,2 @@
-You'll wish that you had done some of the hard things when they were easier
-to do.
+O, what a tangled web we weave, When first we practice to deceive.
+		-- Sir Walter Scott, "Marmion"
