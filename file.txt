@@ -1,3 +1,2 @@
-There is an old time toast which is golden for its beauty.
-"When you ascend the hill of prosperity may you not meet a friend."
-		-- Mark Twain
+He hath eaten me out of house and home.
+		-- William Shakespeare, "Henry IV"
