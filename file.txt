@@ -1,2 +1,3 @@
-Q:	How many Marxists does it take to screw in a light bulb?
-A:	None:  The light bulb contains the seeds of its own revolution.
+Q:	Why haven't you graduated yet?
+A:	Well, Dad, I could have finished years ago, but I wanted
+	my dissertation to rhyme.
