@@ -1,1 +1,2 @@
-You too can wear a nose mitten.
+Nothing so needs reforming as other people's habits.
+		-- Mark Twain
