@@ -1,1 +1,1 @@
-Don't worry so loud, your roommate can't think.
+A vivid and creative mind characterizes you.
