@@ -1,1 +1,1 @@
-You will never know hunger.
+Q:	How do you keep a moron in suspense?
