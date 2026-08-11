@@ -1,1 +1,1 @@
-Today is what happened to yesterday.
+Good news.  Ten weeks from Friday will be a pretty good day.
