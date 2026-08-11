@@ -1,3 +1,2 @@
-There are more things in heaven and earth,
-Horatio, than are dreamt of in your philosophy.
-		-- Wm. Shakespeare, "Hamlet"
+He hath eaten me out of house and home.
+		-- William Shakespeare, "Henry IV"
