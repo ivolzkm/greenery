@@ -1,2 +1,2 @@
-Q:	How did you get into artificial intelligence?
-A:	Seemed logical -- I didn't have any real intelligence.
+Give thought to your reputation.  Consider changing name and moving to
+a new town.
