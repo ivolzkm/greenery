@@ -1,3 +1,8 @@
-Q:	Why is it that the more accuracy you demand from an interpolation
-	function, the more expensive it becomes to compute?
-A:	That's the Law of Spline Demand.
+October.
+
+This is one of the peculiarly dangerous months to speculate in stocks in.
+
+The others are July, January, September, April, November, May, March, June,
+December, August, and February.
+
+		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
