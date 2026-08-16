@@ -1,1 +1,2 @@
-You possess a mind not merely twisted, but actually sprained.
+Q:	What happens when four WASPs find themselves in the same room?
+A:	A dinner party.
