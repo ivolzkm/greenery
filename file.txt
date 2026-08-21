@@ -1,1 +1,1 @@
-You will be recognized and honored as a community leader.
+You will inherit some money or a small piece of land.
