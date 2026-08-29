@@ -1,1 +1,2 @@
-Don't read any sky-writing for the next two weeks.
+question = ( to ) ? be : ! be;
+		-- Wm. Shakespeare
