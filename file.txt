@@ -1,2 +1,1 @@
-Q:	Why do mountain climbers rope themselves together?
-A:	To prevent the sensible ones from going home.
+Don't plan any hasty moves.  You'll be evicted soon anyway.
