@@ -1,5 +1,1 @@
-Q:	What do monsters eat?
-A:	Things.
-
-Q:	What do monsters drink?
-A:	Coke.  (Because Things go better with Coke.)
+Best of all is never to have been born.  Second best is to die soon.
