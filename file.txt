@@ -1,1 +1,1 @@
-You need more time; and you probably always will.
+A visit to a strange place will bring fresh work.
