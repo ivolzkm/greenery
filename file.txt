@@ -1,1 +1,2 @@
-You will be Told about it Tomorrow.  Go Home and Prepare Thyself.
+You may be infinitely smaller than some things, but you're infinitely
+larger than others.
