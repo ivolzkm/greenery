@@ -1,1 +1,3 @@
-Bank error in your favor.  Collect $200.
+"... an experienced, industrious, ambitious, and often quite often
+picturesque liar."
+		-- Mark Twain
