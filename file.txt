@@ -1,1 +1,2 @@
-Are you making all this up as you go along?
+Big book, big bore.
+		-- Callimachus
