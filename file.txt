@@ -1,1 +1,1 @@
-Your lucky number has been disconnected.
+You will experience a strong urge to do good; but it will pass.
