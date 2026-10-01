@@ -1,2 +1,2 @@
-Better hope the life-inspector doesn't come around while you have your
-life in such a mess.
+You tread upon my patience.
+		-- William Shakespeare, "Henry IV"
