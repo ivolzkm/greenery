@@ -1,2 +1,2 @@
-Be free and open and breezy!  Enjoy!  Things won't get any better so
-get used to it.
+She is not refined.  She is not unrefined.  She keeps a parrot.
+		-- Mark Twain
