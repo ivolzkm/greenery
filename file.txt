@@ -1,1 +1,1 @@
-Bank error in your favor.  Collect $200.
+Give him an evasive answer.
