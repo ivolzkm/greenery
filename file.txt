@@ -1,3 +1,1 @@
-Remark of Dr. Baldwin's concerning upstarts: We don't care to eat toadstools
-that think they are truffles.
-		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
+Best of all is never to have been born.  Second best is to die soon.
