@@ -1,8 +1,2 @@
-To be or not to be.
-		-- Shakespeare
-To do is to be.
-		-- Nietzsche
-To be is to do.
-		-- Sartre
-Do be do be do.
-		-- Sinatra
+Always the dullness of the fool is the whetstone of the wits.
+		-- William Shakespeare, "As You Like It"
