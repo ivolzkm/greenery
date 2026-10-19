@@ -1,1 +1,1 @@
-Perfect day for scrubbing the floor and other exciting things.
+If you sow your wild oats, hope for a crop failure.
