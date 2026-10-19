@@ -1,1 +1,1 @@
-There is a 20% chance of tomorrow.
+Perfect day for scrubbing the floor and other exciting things.
