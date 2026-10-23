@@ -1,1 +1,1 @@
-Be different: conform.
+Don't go surfing in South Dakota for a while.
