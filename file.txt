@@ -1,2 +1,2 @@
-If you laid all of our laws end to end, there would be no end.
-		-- Mark Twain
+If two people love each other, there can be no happy end to it.
+		-- Ernest Hemingway
