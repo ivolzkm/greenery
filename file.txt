@@ -1,1 +1,2 @@
-You will gain money by an illegal action.
+Go not to the elves for counsel, for they will say both yes and no.
+		-- J.R.R. Tolkien
