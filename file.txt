@@ -1,1 +1,3 @@
-Today is the tomorrow you worried about yesterday.
+Questionable day.
+
+Ask somebody something.
