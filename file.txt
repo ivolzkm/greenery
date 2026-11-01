@@ -1,1 +1,2 @@
-You're not my type.  For that matter, you're not even my species!!!
+Writing is turning one's worst moments into money.
+		-- J.P. Donleavy
