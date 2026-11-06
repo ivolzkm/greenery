@@ -1,2 +1,2 @@
-There is always one thing to remember: writers are always selling somebody out.
-		-- Joan Didion, "Slouching Towards Bethlehem"
+You had some happiness once, but your parents moved away, and you had to
+leave it behind.
