@@ -1,1 +1,1 @@
-Your talents will be recognized and suitably rewarded.
+Stay away from hurricanes for a while.
