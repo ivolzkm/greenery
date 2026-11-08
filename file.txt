@@ -1,2 +1,1 @@
-The very ink with which all history is written is merely fluid prejudice.
-		-- Mark Twain
+Things will be bright in P.M.  A cop will shine a light in your face.
