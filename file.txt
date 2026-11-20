@@ -1,1 +1,2 @@
-You could live a better life, if you had a better mind and a better body.
+Q:	Why was Stonehenge abandoned?
+A:	It wasn't IBM compatible.
