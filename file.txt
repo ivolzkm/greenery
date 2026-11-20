@@ -1,2 +1,3 @@
-Q:	What's buried in Grant's tomb?
-A:	A corpse.
+Whenever you find that you are on the side of the majority, it is time
+to reform.
+		-- Mark Twain
