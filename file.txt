@@ -1,2 +1,2 @@
-Q:	What's tiny and yellow and very, very, dangerous?
-A:	A canary with the super-user password.
+Many pages make a thick book, except for pocket Bibles which are on very
+very thin paper.
